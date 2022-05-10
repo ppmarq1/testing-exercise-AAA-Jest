@@ -1,0 +1,24 @@
+{
+  "name": "testing-exercise-aaa-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppmarq1/testing-exercise-AAA-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppmarq1/testing-exercise-AAA-Jest/issues"
+  },
+  "homepage": "https://github.com/ppmarq1/testing-exercise-AAA-Jest#readme",
+  "devDependencies": {
+    "coverage-node": "^6.1.0",
+    "jest": "^28.1.0"
+  }
+}
